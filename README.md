@@ -7,7 +7,7 @@ This project is a Spring Boot application that provides a platform to play the c
 - Two classic games: Mario and Super Contra.
 - User-friendly interface.
 ## Prerequisites
-- Java 8 or higher
+- Java 17 or higher
 - Maven
 - Spring Boot
 
