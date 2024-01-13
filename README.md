@@ -19,7 +19,7 @@ This project is a Spring Boot application that provides a platform to play the c
 
 ## Usage
 Open your web browser and navigate to `http://localhost:8080` to start playing!
-## path of project 
+## Path of project 
 Gaming-Project/src/main/java/com/Game_app/Gaming/Project
 
 ## Contributing
